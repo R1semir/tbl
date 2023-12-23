@@ -1,0 +1,10 @@
+C:\Users\legen\source\repos\tbl\tbl\bin\Debug\tbl.exe.config
+C:\Users\legen\source\repos\tbl\tbl\bin\Debug\tbl.exe
+C:\Users\legen\source\repos\tbl\tbl\bin\Debug\tbl.pdb
+C:\Users\legen\source\repos\tbl\tbl\obj\Debug\tbl.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\tbl\tbl\obj\Debug\tbl.Form1.resources
+C:\Users\legen\source\repos\tbl\tbl\obj\Debug\tbl.Properties.Resources.resources
+C:\Users\legen\source\repos\tbl\tbl\obj\Debug\tbl.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\tbl\tbl\obj\Debug\tbl.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\tbl\tbl\obj\Debug\tbl.exe
+C:\Users\legen\source\repos\tbl\tbl\obj\Debug\tbl.pdb
